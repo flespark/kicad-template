@@ -1,0 +1,21 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 95babdcb-b681-4fd1-a0a6-199f23c665a7)
+
+  (paper "A4")
+
+  (title_block
+    (title "4 Layer Template")
+    (date "2023-02-16")
+    (rev "0.1")
+    (company "Law's Lab")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
