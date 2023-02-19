@@ -4,7 +4,7 @@
 
 (rule "Minimum Trace Width and Spacing (outer layer)"
 	(constraint track_width (min 3.5mil))
-	(constraint clearance (min 3.5mil))
+	(constraint clearance (min 0.2mm))
 	(condition "A.Type == 'track'"))
 
 # silkscreen
